@@ -9,6 +9,8 @@
 // cordova run ios
 // cordova run android
 
+"use strict";
+
 const { spawn } = require("child_process");
 
 const DIR = "examples";
