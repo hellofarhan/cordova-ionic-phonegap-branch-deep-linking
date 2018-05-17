@@ -4,6 +4,7 @@
 // TODO: add npm run changelog to pre push
 // TODO: uncomment functions
 
+"use strict";
 (function() {
   // libs
 

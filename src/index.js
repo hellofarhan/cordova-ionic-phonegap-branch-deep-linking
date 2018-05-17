@@ -1,3 +1,5 @@
+"use strict";
+
 var exec = require("cordova/exec");
 var deviceVendor = window.clientInformation.vendor;
 // SDK Class
